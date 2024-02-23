@@ -1,7 +1,7 @@
 {
-  "homepage": "https://sachakborameiy.github.io/e-commerce",
   "name": "e_commerce",
   "private": true,
+  "homepage": "https://sachakborameiy.github.io/e-commerce",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
